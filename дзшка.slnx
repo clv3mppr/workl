@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Элементы решения/">
+    <File Path="tot.cpp" />
+    <File Path="дз2.cpp" />
+  </Folder>
+  <Project Path="дзшка.vcxproj" />
+</Solution>
